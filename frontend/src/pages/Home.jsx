@@ -4,7 +4,6 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-black via-gray-900 to-purple-900 text-white">
 
-      {/* HERO */}
       <section className="flex flex-col items-center justify-center text-center px-6 py-32">
         <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight">
           Trade Smarter with{" "}

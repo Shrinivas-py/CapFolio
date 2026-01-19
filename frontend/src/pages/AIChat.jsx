@@ -73,7 +73,7 @@ function AIChat() {
         <textarea
           value={question}
           onChange={(e) => setQuestion(e.target.value)}
-          placeholder="Ask about TATA MOTORS, RELIANCE, NSE today..."
+          placeholder="Type symbols such as AAPL, TSLA, BTC or any american stocks or crypto"
           className="flex-1 p-3 rounded-xl bg-black border border-purple-500/30 focus:outline-none"
         />
 

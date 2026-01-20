@@ -12,10 +12,10 @@ export default function Contact() {
         </p>
 
         <div className="flex justify-center gap-6">
-          <a className="px-6 py-3 rounded-xl bg-purple-600 hover:bg-purple-700 transition" href="mailto:support@capfolio.com">
+          <a className="px-6 py-3 rounded-xl bg-purple-600 hover:bg-purple-700 transition" href="mailto: shrinivasrj734@gmail.com">
             Email
           </a>
-          <a className="px-6 py-3 rounded-xl border border-purple-500 hover:bg-purple-800/30 transition" href="https://www.linkedin.com/company/capfolio" target="_blank" rel="noopener noreferrer">
+          <a className="px-6 py-3 rounded-xl border border-purple-500 hover:bg-purple-800/30 transition" href="https://www.linkedin.com/company/capfolioo/" target="_blank" rel="noopener noreferrer">
             LinkedIn
           </a>
         </div>
